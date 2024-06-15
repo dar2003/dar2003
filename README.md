@@ -1,67 +1,43 @@
-<!-- Header Section -->
-<h1 align="center"><font face="Arial">Hi 👋, I'm Darshil Shah </font></h1>
-<h3 align="center"><font face="Arial"><a href="https://www.linkedin.com/in/nasiullha-chaudhari/" target="_blank" rel="noreferrer">Darshil</a> is a passionate MERN Stack Developer with experience in building dynamic and responsive web applications. I enjoy working with modern web technologies and continuously learning new skills to improve my craft.</font></h3>
-
-
+<h1 align="center">Hi 👋, I'm Darshil Shah</h1>
+<h3 align="center">A passionate MERN Stack developer from India </h3>
 <!-- GIF -->
 <img align="right" height="300" width="500" src="https://raw.githubusercontent.com/mikonoid/mikonoid/main/images/gifs/coder3.gif" />
 
-![Profile Views](https://komarev.com/ghpvc/?username=dar2003&style=flat-square)
 
-## 🚀 About Me
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Darshil-shah&label=Profile%20views&color=0e75b6&style=flat" alt="D shah" /> </p>
 
-- 🔭 I’m currently working on various MERN stack projects.
-- 🌱 I’m always exploring new technologies and learning new things.
-- 💬 Ask me about JavaScript, React, Node.js, and more!
-- 📫 How to reach me: [darshilshah1802@gmail.com](mailto:darshilshah1802@gmail.com)
+<p align="left"> <a href="https://twitter.com/darshil1802" target="blank"><img src="https://img.shields.io/twitter/follow/darshil1802?logo=twitter&style=for-the-badge" alt="vivekpanchaal" /></a> </p>
 
+- 🔭 I’m currently learning **Expressjs**
 
-## 🛠️ My Skills
+- 🔭 I’m currently Looking for **Frontend Role**
 
+- 💬 Ask me about **MERN, JavaScript, C++**
 
-### Programming Languages
+- 📫 How to reach me **darshilshah1802@gmail.com**
 
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/darshil1802" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dharmil-shah" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/darshil-shah18/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Dharmilshah" height="30" width="40" /></a>
+<a href="https://leetcode.com/shahdarshil/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="darshil shah" height="30" width="40" /></a>
+</p>
+<br>
+<div id="badges">
 
-### Frontend
+## 🛠️ Languages and Tools :
+<p>
+  <a href="https://skillicons.dev">
+   <img src="https://skillicons.dev/icons?i=javascript,react,nextjs,nodejs,express,mongodb,html,css,tailwind,cpp,git,github,mysql,python"/>
+  </a>
+</p>
+</div>
 
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
-
-### Backend
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-
-### Tools
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
-
+<br>
 
 ## 📈 GitHub Stats
-
-![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=dar2003&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dar2003&layout=compact&theme=radical)
-
-## 📫 Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/darshil-shah18/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/@darshil1802)
-
-
-_Thank you for visiting my profile!_
-
-
-
+### <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='25' /> My Github Stats:
+![Apoorv's github stats](https://github-readme-stats.vercel.app/api?username=dar2003&theme=dracula)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dar2003&layout=compact&text_color=daf7dc&bg_color=151515&hide=css,html,php)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dar2003&theme=dark)](https://git.io/streak-stats)
+<br>
